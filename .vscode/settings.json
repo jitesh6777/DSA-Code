@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "valarray": "cpp",
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "list": "cpp",
+        "new": "cpp",
+        "ostream": "cpp",
+        "regex": "cpp"
+    }
+}
