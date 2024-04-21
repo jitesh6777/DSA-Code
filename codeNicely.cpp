@@ -130,13 +130,13 @@ int main()
     for(int i=0;i<n;i++){
         if( str[i] == ',' || str[i] ==' ' || str[i] == ':')
             continue;
-        else(str[i]>='A' && str[i]<='Z')
+        else if(str[i]>='A' && str[i]<='Z')
             str[i] = (str[i] - 32) ;
     }
 
     ReverseWo(str,n);
     return 0 ;
-    
+
 }
 
 
